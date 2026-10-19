@@ -72,4 +72,4 @@ The intended progression is:
 
 The ultimate objective is an AI that can understand programming requests, generate unfamiliar code, inspect its own results, and correct mistakes rather than merely retrieve memorized implementations.
 
-Next development milestone: V11.5, dataset expansion and genuine generalization training. Preserve `codet5_v114/best/` as the current baseline.&#x20;
+Next development milestone: V11.5, dataset expansion and genuine generalization training. Preserved `codet5_v114/best/` as the current baseline.&#x20;
